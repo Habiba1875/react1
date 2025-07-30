@@ -144,7 +144,7 @@ footer .bottom {
   opacity: 0.8;
 }
 
-.portfolio .img-card .outlay:hover {
+.portfolio .img-card .outlay:hover i{
   opacity: 1;
 }
 
